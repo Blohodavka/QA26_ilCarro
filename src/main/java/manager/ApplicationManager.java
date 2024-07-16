@@ -20,7 +20,7 @@ public HelperUser getHelperUser(){
 }
 
 
-    
+
 
     public void init() {
         wd = new ChromeDriver();
